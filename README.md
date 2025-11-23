@@ -6,7 +6,7 @@ This script uses only built-in Python libraries, so no additional installation i
 
 # Usage
 
-`python deobfuscator.py <input_file> <output_file>`
+` python deobfuscator.py <input_file> <output_file> `
 
 ![](https://github.com/Kraina68512/Python-Deobfuscator/blob/main/help.png?raw=true)
 
